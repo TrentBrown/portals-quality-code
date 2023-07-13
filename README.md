@@ -1,4 +1,8 @@
 # portals-quality-code
 
-This is a public repository used for tracking of issues for the [Portals Tools](https://portals.qualitycode.io) web app.
+Welcome [Portals](https://theportal.to/) holder!
+
+This public repository is used manages issue tracking for the [Portals Tools](https://portals.qualitycode.io) web app built by [QualityCode.io](https://QualityCode.io)
+
+
 
