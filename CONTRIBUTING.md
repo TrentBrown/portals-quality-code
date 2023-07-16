@@ -34,11 +34,9 @@ Do not add your issue as a comment to an existing issue unless it's for the iden
 
 The more information you can provide, the more likely someone will be successful at reproducing the issue and finding a fix.
 
-The built-in tool for reporting an issue, which you can access by using `Report Issue` in the QualityCode Portals Tools app's Help menu, can help streamline this process by automatically providing the version of the QualityCode Portals Tools app, all your installed extensions, and your system info. Additionally, the tool will search among existing issues to see if a similar issue already exists.
+With each issue, please include as much of the following information as you can:
 
-Please include the following with each issue:
-
-* Version of the QualityCode Portals Tools app
+* Version of the QualityCode Portals Tools app. (find this at the upper right hand corner of the page.)
 
 * Your operating system
 
@@ -51,18 +49,6 @@ Please include the following with each issue:
 * Images, animations, or a link to a video showing the issue occurring
 
 * Errors from the Dev Tools Console (open from the menu: Help > Toggle Developer Tools)
-
-### Final Checklist
-
-Please remember to do the following:
-
-* [ ] Search the issue repository to ensure your report is a new issue
-
-* [ ] Recreate the issue after disabling all extensions
-
-* [ ] Simplify your code around the issue to better isolate the problem
-
-Don't feel bad if the developers can't reproduce the issue right away. They will simply ask for more information!
 
 ### Follow Your Issue
 
